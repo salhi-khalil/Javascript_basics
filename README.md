@@ -4,7 +4,7 @@
 
 #### Scheduled Length: 3 Hours
 
-Hey there! Ready to get your hands dirty with some code? This is the practice exercise repository for Hack Reactor's JavaScript 201 workshop. JavaScript 201 is the second lesson in our free, four-part Introductory JavaScript Series (101, 201, 301 and 401). We're excited to have you.
+
 
 In order to complete these exercises, open [repl.it](https://repl.it/), choose JavaScript, and then write your code in the left-hand panel. You can run your code using the "Run" button.
 
